@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Descripción del Proyecto
+
+Cotizador de cryptomonedas utilizando la API de min-api.cryptocompare.com 
+En este proyecto se utilizan Styled Components y Axios, así como la primer instroducción a los Custom Hooks.
+
 ## Available Scripts
 
 In the project directory, you can run:
